@@ -3,3 +3,4 @@ test1
 newline
 task2
 task2 - extra commit
+task3
