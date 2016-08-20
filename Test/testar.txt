@@ -1,3 +1,4 @@
 asd2
 test1
 newline
+task2
