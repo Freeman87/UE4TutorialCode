@@ -4,3 +4,4 @@ newline
 task2
 task2 - extra commit
 task3
+task4
