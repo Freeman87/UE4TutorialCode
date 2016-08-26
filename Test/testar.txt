@@ -6,3 +6,4 @@ task2 - extra commit
 task3
 task4
 task6
+task10
